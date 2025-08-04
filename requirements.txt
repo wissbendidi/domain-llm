@@ -1,0 +1,9 @@
+transformers
+datasets
+peft
+openai
+pandas
+scikit-learn
+jupyter
+fastapi
+uvicorn
