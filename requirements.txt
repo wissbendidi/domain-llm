@@ -1,9 +1,15 @@
-transformers
-datasets
-peft
-openai
-pandas
-scikit-learn
-jupyter
-fastapi
-uvicorn
+torch>=2.0.0
+transformers>=4.35.0
+datasets>=2.14.0
+peft>=0.6.0
+accelerate>=0.24.0
+bitsandbytes>=0.41.0
+pandas>=1.5.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+jupyter>=1.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+tqdm>=4.65.0
+openai>=1.0.0  # For LLM-as-a-judge (optional)
+anthropic>=0.7.0  # Alternative for LLM-as-a-judge (optional)
