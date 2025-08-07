@@ -25,31 +25,9 @@ venv/
 env/
 ENV/
 
-# Jupyter Notebooks
-.ipynb_checkpoints/
-*.ipynb_checkpoints
 
-# Model files (too large for git)
-models/*/
-*.bin
-*.safetensors
-*.h5
-*.pkl
-*.pt
-*.pth
-*.ckpt
 
-# But keep model directory structure
-!models/.gitkeep
-!models/README.md
 
-# Data files (some may be large)
-data/*.csv
-data/*.json
-data/*.parquet
-# Keep small example files
-!data/README.md
-!data/.gitkeep
 
 # Temporary files
 tmp/
@@ -71,15 +49,3 @@ Thumbs.db
 .env
 .env.local
 
-# Google Colab
-.config/
-
-# Results and outputs
-results/
-outputs/
-wandb/
-
-# But keep important result summaries
-!data/*_summary.json
-!data/*_analysis.json
-!data/*_report.json

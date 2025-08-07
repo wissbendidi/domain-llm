@@ -1,0 +1,31 @@
+{
+  "model_type": "BASIC_BASELINE",
+  "model_name": "TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T",
+  "output_dir": "/content/tinyllama-domain-generator-baseline",
+  "training_examples": 273,
+  "eval_examples": 0,
+  "epochs": 1,
+  "batch_size": 1,
+  "learning_rate": 5e-05,
+  "lora_rank": 8,
+  "lora_alpha": 16,
+  "max_length": 128,
+  "final_train_loss": 1.2008,
+  "final_eval_loss": null,
+  "limitations": [
+    "Single epoch training",
+    "Minimal LoRA config",
+    "No hyperparameter optimization",
+    "No validation metrics",
+    "No safety filtering",
+    "Basic generation parameters"
+  ],
+  "improvement_opportunities": [
+    "Hyperparameter tuning",
+    "Multi-epoch training",
+    "Validation set creation",
+    "Safety guardrails",
+    "Advanced LoRA config",
+    "Better generation parameters"
+  ]
+}
