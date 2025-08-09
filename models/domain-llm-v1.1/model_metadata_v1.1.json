@@ -1,0 +1,32 @@
+{
+  "model_version": "v1.1",
+  "base_model": "TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T",
+  "training_date": "2025-08-09T17:57:59.345570",
+  "training_time_minutes": 1.3570738474527995,
+  "training_config": {
+    "num_epochs": 3,
+    "batch_size": 4,
+    "learning_rate": 0.0002,
+    "lora_r": 16,
+    "lora_alpha": 32,
+    "validation_split": 0.2
+  },
+  "data_info": {
+    "train_examples": 428,
+    "val_examples": 107,
+    "total_examples": 535
+  },
+  "training_results": {
+    "final_train_loss": null,
+    "final_eval_loss": null,
+    "best_eval_loss": 0.8100326657295227
+  },
+  "improvements_over_baseline": [
+    "Multi-epoch training (3 vs 1)",
+    "Validation set monitoring",
+    "Enhanced LoRA configuration",
+    "Improved generation parameters",
+    "Better data preprocessing",
+    "Early stopping implementation"
+  ]
+}

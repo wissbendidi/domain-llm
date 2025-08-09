@@ -1,0 +1,10 @@
+{
+  "total_tests": 50,
+  "valid_domains": 2,
+  "validity_rate": 4.0,
+  "average_similarity": 0.20341830464856772,
+  "overall_score": 12.170915232428387,
+  "improvement_priority": "HIGH",
+  "model_path": "/content/drive/MyDrive/tinyllama-baseline-model",
+  "test_data_samples": 50
+}
