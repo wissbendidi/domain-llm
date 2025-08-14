@@ -416,6 +416,5 @@ python src/evaluation/run_llm_judge_evaluation.py --help
 
 ---
 
-**Project Duration**: 1 week   
 **Development Environment**: Google Colab, Python 3.11  
 **Status**: ✅ Core objectives completed, ready for demonstration
