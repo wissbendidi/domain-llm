@@ -5,7 +5,7 @@
 [![Transformers](https://img.shields.io/badge/Transformers-4.35%2B-yellow.svg)](https://huggingface.co/transformers)
 
 
-## 🎯 Project Overview
+## Project Overview
 
 This project implements a **comprehensive AI engineering solution** for automated domain name generation using fine-tuned Large Language Models. The system demonstrates systematic model development, evaluation, and iterative improvement with a focus on production-ready AI engineering practices.
 
@@ -27,7 +27,7 @@ This project implements a **comprehensive AI engineering solution** for automate
 **Approach**: Parameter-Efficient Fine-tuning with LoRA
 
 
-## 📊 Project Results & Performance
+## Project Results & Performance
 
 ### Model Performance Evolution
 
