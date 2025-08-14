@@ -3,7 +3,7 @@
 
 ---
 
-**Evaluation Date**: December 2024  
+**Evaluation Date**: August 2025  
 **Evaluation System**: Free LLM-as-a-Judge (DialoGPT-medium)  
 **Models Evaluated**: Baseline vs v1.1  
 **Judge Model**: microsoft/DialoGPT-medium  
@@ -289,6 +289,6 @@ The evaluation demonstrates clear progress toward production-ready domain genera
 
 ---
 
-**Report Generated**: December 2024  
+**Report Generated**: August 2025 
 **Next Evaluation**: Planned for v2.0 model iteration  
-**Contact**: Domain LLM Project Team
+**Contact**: wissalbendidi.ing@gmail.com

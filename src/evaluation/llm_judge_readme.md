@@ -283,6 +283,6 @@ This evaluation system is designed for research and educational purposes. Model 
 
 ---
 
-**Last Updated**: December 2024  
+**Last Updated**: August 2025 
 **Version**: 1.0  
-**Maintainer**: Domain LLM Project Team
+**Maintainer**: Wissal BENDIDI
