@@ -11,6 +11,8 @@ to generate domain name suggestions for businesses.
 - Safety guardrails to block inappropriate content
 - (Optional) API endpoint for deployment
 
+check domain-llm\evaluation_results\llm_judge\llm_judge_readme.md for results of the llm as a judge in both models 
+
 ## Setup Instructions
 
 1. Create virtual environment:

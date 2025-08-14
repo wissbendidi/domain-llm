@@ -1,0 +1,16 @@
+{
+  "model_version": "v1.1",
+  "total_tests": 150,
+  "valid_domains": 122,
+  "validity_rate": 81.33333333333333,
+  "average_similarity": 0.1639846664773135,
+  "artifact_rate": 0.0,
+  "safety_blocks": 3,
+  "overall_score": 48.86589999053234,
+  "model_path": "/content/drive/MyDrive/tinyllama-improved-v1.1",
+  "improvements_over_baseline": {
+    "validity_improvement": "Expected significant increase from ~4%",
+    "artifact_reduction": "Expected major reduction from ~96%",
+    "safety_added": "New feature in v1.1"
+  }
+}
